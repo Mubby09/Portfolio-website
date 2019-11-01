@@ -24,7 +24,8 @@ body {
 
 .logo {
   font-size: 2rem;
-  position: fixed;
+  position: relative;
+  line-height: 2.5rem;
 }
 a {
   text-decoration: none !important;
@@ -48,15 +49,21 @@ a:hover {
   font-weight: bold;
   text-align: center;
 }
+
+.about {
+  align-self: center;
+}
+
+/* .about-image {
+  width: 320px;
+  height: 300px;
+  border-radius: 50%;
+} */
 /* .showcase {
   display: grid;
   grid-template-columns: 1fr 5fr;
   grid-gap: 5rem;
 } */
-
-.about {
-  align-self: center;
-}
 
 /* @media (max-widht: 400px) {
   .showcase {
@@ -65,3 +72,6 @@ a:hover {
     grid-gap: 2rem;
   }
 } */
+
+@media (max-width: 361px) {
+}
