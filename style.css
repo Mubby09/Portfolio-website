@@ -54,11 +54,12 @@ a:hover {
   align-self: center;
 }
 
-/* .about-image {
-  width: 320px;
-  height: 300px;
+.about-image {
+  width: 295px;
+  height: 310px;
   border-radius: 50%;
-} */
+  align-self: center;
+}
 /* .showcase {
   display: grid;
   grid-template-columns: 1fr 5fr;
