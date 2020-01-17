@@ -22,6 +22,10 @@ body {
   padding: 0 2rem;
 }
 
+.dev {
+  background: blanchedalmond;
+}
+
 .logo {
   font-size: 2rem;
   position: relative;
