@@ -66,7 +66,7 @@ a:hover {
 }
 
 .btn:focus {
-  outline: none;
+  outline: 0;
 }
 
 /* .showcase {
