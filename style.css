@@ -64,6 +64,11 @@ a:hover {
   border-radius: 50%;
   align-self: center;
 }
+
+.btn:focus {
+  outline: none;
+}
+
 /* .showcase {
   display: grid;
   grid-template-columns: 1fr 5fr;
