@@ -13,6 +13,7 @@ body {
   color: #fff;
   background: black;
   text-align: center;
+  scroll-behavior: smooth;
 }
 
 .container {
@@ -31,6 +32,7 @@ body {
   position: relative;
   line-height: 2.5rem;
 }
+
 a {
   text-decoration: none !important;
 }
